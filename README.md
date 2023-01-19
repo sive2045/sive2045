@@ -1,7 +1,5 @@
-- 🔭 I’m currently working on graduate ML lab.
-- 🌱 I’m currently learning Deep Reinforcement Learning(DRL).   
-- 👯 I’m looking to collaborate on DRL projects.
-- 🤔 I’m looking for help with implement DRL papers.
+- 🔭 I’m currently working on graduate wireless communications lab.
+- 🌱 I’m currently engaged in research activities related to LEO satellite communications.   
 - 📫 How to reach me: lc9902130509@tukorea.ac.kr
 <br></br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sive2045)](https://github.com/anuraghazra/github-readme-stats)
